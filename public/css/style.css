@@ -103,6 +103,11 @@ body {
     height: 170px;
     object-fit: cover;
 }
+.movie img:hover{
+    transform: scale(1.1);
+    padding-right: 10px;
+    padding-left: 10px;
+}
 .movie p{
     text-transform: capitalize;
     height: 20px;
