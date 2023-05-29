@@ -3,7 +3,6 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Clone Netflix - Readme</title>
 </head>
 <body>
   <h1>Clone Netflix</h1>
